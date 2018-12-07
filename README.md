@@ -28,7 +28,7 @@ Some important words
 We have relatively small sample size but over hundred features so we used cross validation. We chosen these models based on our multi-class classification problem and account for the fact that we have mixed predictors.  We found that Adaboost and SVM classifiers consistently performs the best. Overall, our model increases prediction accuracy from baseline model by near 15%.
 
 The significant features
-<p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/feature.GIF"  width="50%" height="50%" ></p>
+<p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/features.GIF"  width="50%" height="50%" ></p>
 
 <p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/vi.GIF"  width="50%" height="50%" ></p>
 
