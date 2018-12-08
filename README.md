@@ -35,6 +35,8 @@ The significant features
 
 Link to our dataset:
 https://drive.google.com/open?id=1toCVSbn8LPxqOSWpRL7uX66UoBke75B6
+Link to directory and file description
+https://docs.google.com/spreadsheets/d/1fbsc8sXeFwHAX0YEwZuwzCw55flKYQ6u7xyUF_wCO0I/edit?usp=sharing
 
 
 
