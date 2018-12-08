@@ -9,7 +9,7 @@ We trained our models using open source crime and Airbnb data from large cities 
 <p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/archi.GIF"  width="50%" height="50%" ></p>
 
 ## Crime Score
-We analyzed the crime report dataset using multiple approaches in getting the crime score. We first start out by intuitively ranking the crime, the improved version is referencing the sentencing years before finally settling with a wider spectrum ranging from 0-100 based on crime categories
+We analyzed the crime report dataset using multiple approaches in obtaining the crime score. We first started with intuitively ranking the crime severity, the improved version is referencing the sentencing years before finally choosing a wider spectrum of score normized by population density ranging from 0-100 based on crime categories.
 
 ## Data Modeling
 
@@ -25,7 +25,7 @@ Some important words
 
 
 ## Result
-We have relatively small sample size but over hundred features so we used cross validation. We chosen these models based on our multi-class classification problem and account for the fact that we have mixed predictors.  We found that Adaboost and SVM classifiers consistently performs the best. Overall, our model increases prediction accuracy from baseline model by near 15%.
+We have relatively small sample size but over hundred features so we used cross validation. We chosen these models based on our multi-class classification problem and accounted for the fact that we have mixed predictors.  We found that Adaboost and Random forest classifiers consistently perform the best. Overall, our model increases prediction accuracy from baseline model by near 20%.
 
 The significant features
 <p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/features.GIF"  width="50%" height="50%" ></p>
