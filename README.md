@@ -30,7 +30,8 @@ We have relatively small sample size but over hundred features so we used cross 
 The significant features
 <p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/features.GIF"  width="50%" height="50%" ></p>
 
-<p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/vi.GIF"  width="50%" height="50%" ></p>
+<p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/Pred_SearchBar_Map.png"  width="50%" height="50%" ></p>
+<p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/Error_Map.png"  width="50%" height="50%" ></p>
 
 
 
