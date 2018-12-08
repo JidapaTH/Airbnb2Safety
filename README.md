@@ -33,6 +33,9 @@ The significant features
 <p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/Pred_SearchBar_Map.png"  width="50%" height="50%" ></p>
 <p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/Error_Map.png"  width="50%" height="50%" ></p>
 
+Link to our dataset:
+https://github.com/JidapaTH/Airbnb2Safety
+
 
 
 
