@@ -34,7 +34,8 @@ The significant features
 <p align="center"> <img src="https://github.com/JidapaTH/Airbnb2Safety/blob/master/Error_Map.png"  width="50%" height="50%" ></p>
 
 Link to our dataset:
-https://github.com/JidapaTH/Airbnb2Safety
+https://drive.google.com/open?id=1toCVSbn8LPxqOSWpRL7uX66UoBke75B6
+
 
 
 
